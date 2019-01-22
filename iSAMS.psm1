@@ -390,3 +390,50 @@ function Get-iSAMSPupil
     }
     END{}
 }
+
+function Set-iSAMSPupil
+{
+<#
+    .SYNOPSIS
+
+    Updates an iSAMS Pupil record via the REST API.
+#>
+}
+
+function Get-iSAMSStaff
+{}
+
+function Set-iSAMSStaff
+{}
+
+function Get-iSAMSBuilding
+{}
+
+function Set-iSAMSBuilding
+{}
+
+function Get-iSAMSRoom
+{}
+
+function Set-iSAMSRoom
+{}
+
+function Get-iSAMSDepartment
+{}
+
+function Set-iSAMSDepartment
+{}
+
+function Get-iSAMSSubject
+{}
+
+function Set-iSAMSSubject
+{}
+
+function Get-iSAMSTeachingSet
+{}
+
+function Set-iSAMSTeachingSet
+{}
+
+
