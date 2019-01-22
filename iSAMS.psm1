@@ -394,9 +394,15 @@ function Get-iSAMSPupil
 function Set-iSAMSPupil
 {
 <#
+
     .SYNOPSIS
 
-    Updates an iSAMS Pupil record via the REST API.
+    Update an iSAMS Pupil record via the REST API
+
+    .DESCRIPTION
+
+    Retrieves the current pupil object, compares against the supplied
+    parameters, and writes the object back with PUT
 #>
 }
 
